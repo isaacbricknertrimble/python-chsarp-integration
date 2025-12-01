@@ -1,6 +1,15 @@
 # Python + C# FastAPI Integration POC
 
-Simple proof-of-concept: Run a Python FastAPI server from C# using pythonnet with virtual environment.
+Simple proof-of-concept: Run a Python FastAPI server from C# using pythonnet with virtual environment. 
+
+## Resources used:
+
+* [pythonnet venv issues](https://stackoverflow.com/questions/78603246/pythonnet-not-using-virtual-environment)
+* [add venv to pythonnet](https://stackoverflow.com/questions/72719556/how-to-add-virtualenv-to-pythonnet)
+* [pythonnet venv GH issue](https://github.com/pythonnet/pythonnet/discussions/2334)
+* [Python .NET docs](https://pythonnet.github.io/pythonnet/)
+* [compiling python dlls](https://stackoverflow.com/questions/10859369/how-to-compile-a-python-package-to-a-dll)
+* [Python in .NET ](https://pythonnet.github.io/pythonnet/dotnet.html)
 
 ## Prerequisites
 
