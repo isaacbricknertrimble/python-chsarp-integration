@@ -52,7 +52,7 @@ namespace PythonFastApiPoc
                 {
                     try
                     {
-                        // run python uvicorn server
+                        //run python uvicorn server
                         using (Py.GIL())
                         {
                             dynamic sys = Py.Import("sys");

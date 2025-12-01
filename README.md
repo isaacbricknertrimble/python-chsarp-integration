@@ -10,6 +10,7 @@ Simple proof-of-concept: Run a Python FastAPI server from C# using pythonnet wit
 * [Python .NET docs](https://pythonnet.github.io/pythonnet/)
 * [compiling python dlls](https://stackoverflow.com/questions/10859369/how-to-compile-a-python-package-to-a-dll)
 * [Python in .NET ](https://pythonnet.github.io/pythonnet/dotnet.html)
+* [Python FastAPI in C# .NET](https://www.youtube.com/watch?v=6N2oFh6YTTc)
 
 ## Prerequisites
 
