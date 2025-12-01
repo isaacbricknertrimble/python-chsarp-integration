@@ -41,10 +41,10 @@ Remove-Item -Recurse -Force csharp\bin, csharp\obj
 
 ## What It Does
 
-- ✅ Starts a Python FastAPI mock inference API from C#
-- ✅ Uses a Python virtual environment via pythonnet
-- ✅ Makes HTTP calls to test the API
-- ✅ Simple sentiment analysis endpoint
+- Starts a Python FastAPI mock inference API from C#
+- Uses a Python virtual environment via pythonnet
+- Makes HTTP calls to test the API
+- Simple sentiment analysis endpoint
 
 ## Project Structure
 
